@@ -48,4 +48,5 @@ o	Without a detailed system requirements process many aspects of the system coul
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 
 o	Creating lists and notes is my main strategy. Lately, I have been trying to capture more details in my notes to avoid confusion later and to develop better designs, systems, and other aspects with a high level of detail. Some of the interview strategies and thought processes that we learned throughout this course will also be on my list if they become applicable in my future jobs. 
+
         ==========================================================
