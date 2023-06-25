@@ -2,7 +2,7 @@
 
           Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-**Purpose:**
+**PURPOSE:**
 
  - The purpose of this project is to design a website system for DriverPass that offers comprehensive resources and tools to assist students in successfully passing their driver's tests.
 
@@ -11,7 +11,7 @@
  - Position: Owner
  - Company: DriverPass
 
-**DESCRIPTION:  **         
+**DESCRIPTION:**         
  - Liam is the owner of DriverPass and is responsible for overseeing the project and providing the vision for the system.
  - DriverPass wants the system to provide online classes and practice tests for students preparing for driving tests.
  - They aim to address the lack of effective tools available to train students for passing their driving tests by offering an online platform and training services.
