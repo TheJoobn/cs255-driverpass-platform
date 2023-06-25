@@ -1,4 +1,4 @@
-# CS 255:  DriverPass System Requirements and Design
+# CS 255:  DriverPass System - Requirements and Design
 
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
 
