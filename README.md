@@ -48,3 +48,17 @@
  - Creating lists and notes is my main strategy. I have trying to capture more details in my notes to avoid confusion later and to develop better designs, systems, and other aspects with a high level of detail. Some of the interview strategies and thought processes that we learned throughout this course will also be on my list if they become applicable in my future jobs. 
 
 
+Whenever I faced roadblocks I enacted the following strategies:
+
+I would go over the supplied requirements and documentation.
+
+Refer back to my pseudocode to get an idea of where I may have errors in my code or work.
+
+Research online for alternate ways to solve the problem.
+
+Take notes on different aspects that could help me solve the problem.
+
+Create multiple other copies of my code for testing and editing.
+
+ake short breaks for mental recollection and to think over some of my roadblocks.
+
