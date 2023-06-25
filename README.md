@@ -4,7 +4,7 @@
 
 Purpose:
 
-The purpose of this project is to design a website system for DriverPass that offers comprehensive resources and tools to assist students in successfully passing their driver's tests.
+ - The purpose of this project is to design a website system for DriverPass that offers comprehensive resources and tools to assist students in successfully passing their driver's tests.
 
 •	CLIENT:
 
