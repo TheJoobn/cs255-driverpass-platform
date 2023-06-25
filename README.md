@@ -24,27 +24,27 @@
 
           What did you do particularly well?
 
- - I think I did a good job on my graphs, even though there are many improvements to be made and details to be added. I overall had a great time trying to figure out the rules of the graphs and how to go about structuring my content within them. 
+ - I think I did a good job on my graphs even though there are many improvements and details that could be added. I had a great time trying to figure out the rules of the graphs and how to structure content within them. 
 
 
 
 
           If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
- - Even though I think I did good on my graphs, they can still use a lot of improvements to be functional and useable. I also could use improvement on my requirements document. While making my graphs I noticed a lot of areas where I was missing information in my business requirements document. I think doing the graphs helped me see a lot of the processes that I may have grazed over and didn’t think deeply enough about.
+ - My requirements document could be enhanced to further meets the client's needs.  While I was making my graphs, I identified additional areas that I could have included in my business requirements document. The graphs helped me process and think of processes that I may have grazed over prior to their completion.
 
 
 
 
           How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
- - Without a detailed system requirements process many aspects of the system could be different that what the client had envisioned. These differences could include missing functions/processes, different interfaces, different layouts, and many more detailed specifications that need to be collected from the client. Overall I found the interview transcript lacking in information and left the creators to do some interpretation when on to the development stages. The more I worked on it the more I felt like I could use another interview with the client to get a note of some of the specifics that would be needed to ensure the client is happy in the end.
+ - Without a detailed system requirements process, many aspects of the system could be different than what the client had envisioned. These differences could include missing functions/processes, different interfaces, different layouts, and many more detailed specifications that need to be collected from the client. Overall I found the interview transcript lacking in information and left the creators to do some interpretation in the designing stage. The more I worked on it, the more I felt like an additional client interveiw would have been beneficial to get further information. This would help make sure tha the cleint's vision and needs are being met.  
 
 
 
 
           How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
- - Creating lists and notes is my main strategy. Lately, I have been trying to capture more details in my notes to avoid confusion later and to develop better designs, systems, and other aspects with a high level of detail. Some of the interview strategies and thought processes that we learned throughout this course will also be on my list if they become applicable in my future jobs. 
+ - Creating lists and notes is my main strategy. I have trying to capture more details in my notes to avoid confusion later and to develop better designs, systems, and other aspects with a high level of detail. Some of the interview strategies and thought processes that we learned throughout this course will also be on my list if they become applicable in my future jobs. 
 
 
