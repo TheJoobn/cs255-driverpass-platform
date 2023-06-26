@@ -24,7 +24,7 @@
 
           What did you do particularly well?
 
- - Although there are numerous improvements and additional details that could be incorporated, I believe I did a decent job on my graphs. I enjoyed learning and creating the graphs as well as means to organize the content within them.  
+Although there are numerous improvements and additional details that could be incorporated, I believe I did a decent job on my graphs. I enjoyed learning and creating the graphs as well as means to organize the content within them.  
  
 
 
@@ -33,7 +33,7 @@
 
           If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
- - There is room for enhancing the requirements document to better meet the client's needs. During the creation of my graphs, I realized that there were additional aspects I could have included in the business requirements document. The process of constructing the graphs helped me consider and evaluate processes that I had previously overlooked.
+There is room for enhancing the requirements document to better meet the client's needs. During the creation of my graphs, I realized that there were additional aspects I could have included in the business requirements document. The process of constructing the graphs helped me consider and evaluate processes that I had previously overlooked.
  
 
 
@@ -42,7 +42,7 @@
           How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
 
- - Without a comprehensive system requirements process, there is a higher likelihood of the system deviating from the client's vision of that system. These discrepancies can encompass various aspects such as missing functions or processes, distinct interfaces, disparate layouts, and a multitude of other detailed specifications. Upon reviewing the interview transcript, I noticed a lack of information, which left the creators to interpret and make assumptions during the design stage. As I progressed with the project, I increasingly felt that an additional client interview would have been beneficial in promoting the client's vision and needs.
+Without a comprehensive system requirements process, there is a higher likelihood of the system deviating from the client's vision of that system. These discrepancies can encompass various aspects such as missing functions or processes, distinct interfaces, disparate layouts, and a multitude of other detailed specifications. Upon reviewing the interview transcript, I noticed a lack of information, which left the creators to interpret and make assumptions during the design stage. As I progressed with the project, I increasingly felt that an additional client interview would have been beneficial in promoting the client's vision and needs.
 
 
 
@@ -51,7 +51,7 @@
 
 
 
- - Creating lists and taking detailed notes is my primary strategy. By documenting specific details and information, I aim to reduce confusion and enhance the development process of designs, systems, and other elements. The comprehensive nature of my notes allows for better organization and reference, aiding in the overall effectiveness of my work.
+Creating lists and taking detailed notes is my primary strategy. By documenting specific details and information, I aim to reduce confusion and enhance the development process of designs, systems, and other elements. The comprehensive nature of my notes allows for better organization and reference, aiding in the overall effectiveness of my work.
 
 Furthermore, I recognize the value of incorporating interview strategies and thought processes learned during this course. By applying these techniques, I can gather increased relevant information during client interactions, ensuring that their needs and vision are understood and met. These strategies will prove beneficial in my future professional endeavors, enabling me to approach interviews and requirements gathering in a structured and insightful manner.
 
