@@ -24,41 +24,57 @@
 
           What did you do particularly well?
 
- - I think I did a good job on my graphs even though there are many improvements and details that could be added. I had a great time trying to figure out the rules of the graphs and how to structure content within them. 
+ -Although there are numerous improvements and additional details that could be incorporated, I believe I did a decent job on my graphs. I enjoyed learning and creating the graphs as well as means to organize the content within them.  
+ 
+
 
 
 
 
           If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
- - My requirements document could be enhanced to further meets the client's needs.  While I was making my graphs, I identified additional areas that I could have included in my business requirements document. The graphs helped me process and think of processes that I may have grazed over prior to their completion.
+ - There is room for enhancing the requirements document to better meet the client's needs. During the creation of my graphs, I realized that there were additional aspects I could have included in the business requirements document. The process of constructing the graphs helped me consider and evaluate processes that I had previously overlooked.
+ -
+ -
+ 
 
 
 
 
           How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
- - Without a detailed system requirements process, many aspects of the system could be different than what the client had envisioned. These differences could include missing functions/processes, different interfaces, different layouts, and many more detailed specifications that need to be collected from the client. Overall I found the interview transcript lacking in information and left the creators to do some interpretation in the designing stage. The more I worked on it, the more I felt like an additional client interveiw would have been beneficial to get further information. This would help make sure tha the cleint's vision and needs are being met.  
+
+ - Without a comprehensive system requirements process, there is a higher likelihood of the system deviating from the client's vision of that system. These discrepancies can encompass various aspects such as missing functions or processes, distinct interfaces, disparate layouts, and a multitude of other detailed specifications. Upon reviewing the interview transcript, I noticed a lack of information, which left the creators to interpret and make assumptions during the design stage. As I progressed with the project, I increasingly felt that an additional client interview would have been beneficial in promoting the client's vision and needs.
 
 
 
 
           How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
- - Creating lists and notes is my main strategy. I have trying to capture more details in my notes to avoid confusion later and to develop better designs, systems, and other aspects with a high level of detail. Some of the interview strategies and thought processes that we learned throughout this course will also be on my list if they become applicable in my future jobs. 
+
+
+ - Creating lists and taking detailed notes is my primary strategy. By documenting specific details and information, I aim to reduce confusion and enhance the development process of designs, systems, and other elements. The comprehensive nature of my notes allows for better organization and reference, aiding in the overall effectiveness of my work.
+
+Furthermore, I recognize the value of incorporating interview strategies and thought processes learned during this course. By applying these techniques, I can gather increased relevant information during client interactions, ensuring that their needs and vision are understood and met. These strategies will prove beneficial in my future professional endeavors, enabling me to approach interviews and requirements gathering in a structured and insightful manner.
 
 
 Whenever I faced roadblocks I enacted the following strategies:
 
-I would go over the supplied requirements and documentation.
 
-Refer back to my pseudocode to get an idea of where I may have errors in my code or work.
+Reviewed the provided requirments and documentation of the assignment.  This helped me regain clarity and ensured that I was on the right track.
 
-Research online for alternate ways to solve the problem.
+Consulted my pseudocode to help identify potential errors in my code or work.  This provided valuable insight for troubleshooting.
 
-Take notes on different aspects that could help me solve the problem.
+Researched and explored online for approaches and solutions to the problems I was facing.  This helped me broaden my perspective and learn new strategies.  
 
-Create multiple other copies of my code for testing and editing.
+Took notes on different aspects or insights that could aide me in solving the problem.
 
-ake short breaks for mental recollection and to think over some of my roadblocks.
+Created multiple other copies of my code for testing and editing. This allowed me to test and experiment different modifications without the fear of losing progress.  
+
+Took periodic breaks for mental recollection and allowed me to approach roadblocks with a fresh perspective. 
+
+
+By implementing these strategies, I was able to overcome obstacles and find effective solutions to the problems I encountered.
+
+
 
