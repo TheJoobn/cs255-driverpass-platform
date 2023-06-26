@@ -34,8 +34,6 @@
           If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
  - There is room for enhancing the requirements document to better meet the client's needs. During the creation of my graphs, I realized that there were additional aspects I could have included in the business requirements document. The process of constructing the graphs helped me consider and evaluate processes that I had previously overlooked.
- -
- -
  
 
 
@@ -61,17 +59,17 @@ Furthermore, I recognize the value of incorporating interview strategies and tho
 Whenever I faced roadblocks I enacted the following strategies:
 
 
-Reviewed the provided requirments and documentation of the assignment.  This helped me regain clarity and ensured that I was on the right track.
+ - Reviewed the provided requirments and documentation of the assignment.  This helped me regain clarity and ensured that I was on the right track.
 
-Consulted my pseudocode to help identify potential errors in my code or work.  This provided valuable insight for troubleshooting.
+ - Consulted my pseudocode to help identify potential errors in my code or work.  This provided valuable insight for troubleshooting.
 
-Researched and explored online for approaches and solutions to the problems I was facing.  This helped me broaden my perspective and learn new strategies.  
+ - Researched and explored online for approaches and solutions to the problems I was facing.  This helped me broaden my perspective and learn new strategies.  
 
-Took notes on different aspects or insights that could aide me in solving the problem.
+ - Took notes on different aspects or insights that could aide me in solving the problem.
 
-Created multiple other copies of my code for testing and editing. This allowed me to test and experiment different modifications without the fear of losing progress.  
+ - Created multiple other copies of my code for testing and editing. This allowed me to test and experiment different modifications without the fear of losing progress.  
 
-Took periodic breaks for mental recollection and allowed me to approach roadblocks with a fresh perspective. 
+ - Took periodic breaks for mental recollection and allowed me to approach roadblocks with a fresh perspective. 
 
 
 By implementing these strategies, I was able to overcome obstacles and find effective solutions to the problems I encountered.
