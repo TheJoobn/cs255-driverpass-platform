@@ -24,7 +24,7 @@
 
           What did you do particularly well?
 
- -Although there are numerous improvements and additional details that could be incorporated, I believe I did a decent job on my graphs. I enjoyed learning and creating the graphs as well as means to organize the content within them.  
+ - Although there are numerous improvements and additional details that could be incorporated, I believe I did a decent job on my graphs. I enjoyed learning and creating the graphs as well as means to organize the content within them.  
  
 
 
